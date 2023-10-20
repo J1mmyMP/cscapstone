@@ -1,0 +1,18 @@
+.researchProposalContainer {
+    display:block;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+    
+}
+
+table, th, td {
+    border:1px solid black;
+}
+td {
+    word-break: break-all;
+}
+
+.center {
+    margin: 0 auto;
+}
