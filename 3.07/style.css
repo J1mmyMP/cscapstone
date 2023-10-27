@@ -1,3 +1,8 @@
+body {
+    background-color: #29bde6;
+    color: #000000;
+}
+
 .researchProposalContainer {
     display:block;
     margin: 0 auto;
